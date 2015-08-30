@@ -1,0 +1,26 @@
+/*
+ * styles.css by Brad Jensen brad-jensen.com 
+ * Copyright (C) 2015
+ */
+
+
+/*
+*      	color pallet
+*      	#E6E2AF		tan
+*      	#A7A37E		dark tan
+*      	#EFECCA		sand
+*      	#046380		blue
+*      	#002F2F		dark bluegreen
+*/
+
+
+body {
+    background-color: #EFECCA	
+    
+}
+
+
+#nav li {
+	float: left;
+	
+}

@@ -1,0 +1,39 @@
+<!doctype html>
+
+<html>
+	<head>
+    	<title>Web Development</title>
+
+	    <meta charset="utf-8" />
+	    <meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+    	<meta name="viewport" content="width=device-width, initial-scale=1" />
+      	
+      	<link rel="stylesheet" type="text/css" href="css/styles.css">
+      	
+      <!--
+      	color pallet
+      	#E6E2AF	tan
+      	#A7A37E	dark tan
+      	#EFECCA	sand
+      	#046380 blue
+      	#002F2F	dark bluegreen
+      -->
+      	
+	</head>
+
+	<body>
+		<div id="nav" role="navigation">
+		<ul>
+			<li>Home</li>
+			<li>About</li>
+			<li>Portfolio</li>
+			<li>Contact</li>
+		</ul>
+		</div>
+		
+		<h1>Web Design by Brad Jensen</h1>
+		
+		<p></p>
+		
+	</body>
+</html>
