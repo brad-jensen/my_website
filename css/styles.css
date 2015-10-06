@@ -23,5 +23,8 @@ body {
 #nav li {
 	float: left;
 	display:inline-block;
+	width:100px;
+	background-color: #046380;
+	margin:0 2;
 	
 }
